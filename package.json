@@ -1,6 +1,6 @@
 {
   "name": "upshift-gatsby-footer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "upshift - Gatsby footer",
   "main": "./lib/Footer.js",
   "license": "MIT",
